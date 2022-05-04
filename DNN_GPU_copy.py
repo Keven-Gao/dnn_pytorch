@@ -2,7 +2,9 @@
 """
 Created on Thu Apr  8 20:41:22 2021
 
-@author: lenovo
+@author: gaokaifeng
+@institute: CUGB
+@e-mail: kaifeng.gao@foxmail.com
 """
 
 import torch
