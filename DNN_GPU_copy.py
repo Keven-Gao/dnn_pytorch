@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr  8 20:41:22 2021
-
-@author: gaokaifeng
-@institution: CUGB
-@e-mail: kaifeng.gao@foxmail.com
 """
 
 import torch
